@@ -4,3 +4,11 @@
 ZCZC W00 15 L01 SCELE related
 ZCZC W00 100 L02 ZOOM related
 ZCZC W00 15 L03 GitHub related
+ZCZC W01 30 L21 VirtualBox related
+ZCZC W01 120 L11 Create and Import Guest
+ZCZC W01 30 L12 See some GSGS related 
+ZCZC W01 30 L13 Learn and try vi and linux terminal command
+ZCZC W01 25 L14 Change my username because its different then my git username
+ZCZC W01 15 L15 Github
+ZCZC W01 20 L16 Update mylog.txt
+
