@@ -2,6 +2,6 @@
 ZCZC W01 MarioSerano
 ZCZC W01 hanifaudah
 ZCZC W01 hanifahputri
-ZCZC W02 MuhammadRaviSH
-ZCZC W02 naufaladi35
-ZCZC W02 jojonicho
+ZCZC W01 MuhammadRaviSH
+ZCZC W01 naifaladi35
+ZCZC W01 jojonicho
