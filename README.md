@@ -7,6 +7,6 @@ Operating Systems 2021-1<br>
 <hr>
 
 TOP 10 Links <br>
-[Week 01](https://muhammadhafizmm.github.io/0211/W01/)<br>
-[Week 02](https://muhammadhafizmm.github.io/0211/W02/)<br>
-[Week 03](https://muhammadhafizmm.github.io/0211/W03/)<br>
+[Week 01](https://muhammadhafizmm.github.io/os211/W01/)<br>
+[Week 02](https://muhammadhafizmm.github.io/os211/W02/)<br>
+[Week 03](https://muhammadhafizmm.github.io/os211/W03/)<br>
