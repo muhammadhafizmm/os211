@@ -11,4 +11,15 @@ ZCZC W01 30 L13 Learn and try vi and linux terminal command
 ZCZC W01 25 L14 Change my username because its different then my git username
 ZCZC W01 15 L15 Github
 ZCZC W01 20 L16 Update mylog.txt
-
+ZCZC W02 60 L05 GSGS related
+ZCZC W02 90 L02 ZOOM related
+ZCZC W02 60 L10 Assignment (General)
+ZCZC W03 30 L05 GSGS related
+ZCZC W03 90 L02 ZOOM related
+ZCZC W03 60 L10 Assignment (General)
+ZCZC W03 120 L23 Discord: discussion, etc.
+ZCZC W04 10 L01 SCELE related
+ZCZC W04 120 L10 Assignment (General)
+ZCZC W04 90 L02 ZOOM related
+ZCZC W04 20 L05 GSGS related
+ZCZC W04 90 L22 YouTube: study, etc.
