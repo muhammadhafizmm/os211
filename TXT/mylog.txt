@@ -32,3 +32,7 @@ ZCZC W06 90 L02 ZOOM related.
 ZCZC W06 20 L05 GSGS OS stuff
 ZCZC W06 20 L22 YouTube: study, etc.
 ZCZC W06 60 L23 Discord: discussion, etc.
+ZCZC W07 100 L02 ZOOM related
+ZCZC W07 60 L10 Assignment (General)
+ZCZC W07 20 L22 YouTube: study, etc.
+ZCZC W07 5 L01 SCELE related
