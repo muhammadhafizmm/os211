@@ -48,3 +48,4 @@ ZCZC W09 120 L10 Assignment (General)
 ZCZC W09 130 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W09 30 L25 C-language: study, etc.
 ZCZC W09 40 L23 Discord: discussion, etc.
+ZCZC W10 300 L10 Assignment
